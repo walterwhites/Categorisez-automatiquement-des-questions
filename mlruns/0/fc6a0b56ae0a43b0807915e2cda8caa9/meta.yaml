@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/0/fc6a0b56ae0a43b0807915e2cda8caa9/artifacts
+end_time: 1701692677410
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc6a0b56ae0a43b0807915e2cda8caa9
+run_name: fortunate-shark-505
+run_uuid: fc6a0b56ae0a43b0807915e2cda8caa9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701692677405
+status: 4
+tags: []
+user_id: flo
