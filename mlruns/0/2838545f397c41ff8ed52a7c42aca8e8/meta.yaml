@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/0/2838545f397c41ff8ed52a7c42aca8e8/artifacts
+end_time: 1702406455241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2838545f397c41ff8ed52a7c42aca8e8
+run_name: efficient-trout-619
+run_uuid: 2838545f397c41ff8ed52a7c42aca8e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702406022217
+status: 3
+tags: []
+user_id: flo

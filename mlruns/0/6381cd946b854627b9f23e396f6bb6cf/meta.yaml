@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/0/6381cd946b854627b9f23e396f6bb6cf/artifacts
+end_time: 1701693165974
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6381cd946b854627b9f23e396f6bb6cf
+run_name: blushing-crab-643
+run_uuid: 6381cd946b854627b9f23e396f6bb6cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701693164015
+status: 3
+tags: []
+user_id: flo
