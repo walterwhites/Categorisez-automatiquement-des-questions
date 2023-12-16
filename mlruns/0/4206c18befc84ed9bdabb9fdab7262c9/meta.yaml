@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/0/4206c18befc84ed9bdabb9fdab7262c9/artifacts
+end_time: 1702476953150
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4206c18befc84ed9bdabb9fdab7262c9
+run_name: melodic-bat-47
+run_uuid: 4206c18befc84ed9bdabb9fdab7262c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702476673056
+status: 3
+tags: []
+user_id: flo

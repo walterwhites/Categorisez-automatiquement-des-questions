@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/0/4dce92d1e9fa4875a9cdd72afaa616f3/artifacts
+end_time: 1702477043179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dce92d1e9fa4875a9cdd72afaa616f3
+run_name: sneaky-donkey-607
+run_uuid: 4dce92d1e9fa4875a9cdd72afaa616f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702476963275
+status: 3
+tags: []
+user_id: flo
