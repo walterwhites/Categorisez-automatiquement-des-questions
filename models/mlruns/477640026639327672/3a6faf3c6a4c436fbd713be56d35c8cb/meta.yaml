@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/477640026639327672/3a6faf3c6a4c436fbd713be56d35c8cb/artifacts
+end_time: 1705575894368
+entry_point_name: ''
+experiment_id: '477640026639327672'
+lifecycle_stage: active
+run_id: 3a6faf3c6a4c436fbd713be56d35c8cb
+run_name: colorful-grub-301
+run_uuid: 3a6faf3c6a4c436fbd713be56d35c8cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705575893303
+status: 3
+tags: []
+user_id: flo

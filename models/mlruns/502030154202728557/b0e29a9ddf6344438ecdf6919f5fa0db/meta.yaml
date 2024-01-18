@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/502030154202728557/b0e29a9ddf6344438ecdf6919f5fa0db/artifacts
+end_time: 1705575759677
+entry_point_name: ''
+experiment_id: '502030154202728557'
+lifecycle_stage: active
+run_id: b0e29a9ddf6344438ecdf6919f5fa0db
+run_name: flawless-grub-98
+run_uuid: b0e29a9ddf6344438ecdf6919f5fa0db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705575758688
+status: 3
+tags: []
+user_id: flo

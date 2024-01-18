@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/472618172140508023/80b695f25ec843e284299fd58af52178/artifacts
+end_time: 1705576209450
+entry_point_name: ''
+experiment_id: '472618172140508023'
+lifecycle_stage: active
+run_id: 80b695f25ec843e284299fd58af52178
+run_name: rogue-squirrel-613
+run_uuid: 80b695f25ec843e284299fd58af52178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705576208243
+status: 3
+tags: []
+user_id: flo

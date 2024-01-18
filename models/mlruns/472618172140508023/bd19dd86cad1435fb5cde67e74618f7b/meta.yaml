@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/472618172140508023/bd19dd86cad1435fb5cde67e74618f7b/artifacts
+end_time: 1705575767487
+entry_point_name: ''
+experiment_id: '472618172140508023'
+lifecycle_stage: active
+run_id: bd19dd86cad1435fb5cde67e74618f7b
+run_name: adaptable-horse-959
+run_uuid: bd19dd86cad1435fb5cde67e74618f7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705575766461
+status: 3
+tags: []
+user_id: flo

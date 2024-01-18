@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/379649477810567170/16db2c5e75274be18d52b3069da99c3c/artifacts
+end_time: 1705576205412
+entry_point_name: ''
+experiment_id: '379649477810567170'
+lifecycle_stage: active
+run_id: 16db2c5e75274be18d52b3069da99c3c
+run_name: funny-cat-762
+run_uuid: 16db2c5e75274be18d52b3069da99c3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705576204199
+status: 3
+tags: []
+user_id: flo

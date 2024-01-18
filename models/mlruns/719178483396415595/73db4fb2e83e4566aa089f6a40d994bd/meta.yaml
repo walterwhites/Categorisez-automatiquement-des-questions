@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/719178483396415595/73db4fb2e83e4566aa089f6a40d994bd/artifacts
+end_time: 1705575900235
+entry_point_name: ''
+experiment_id: '719178483396415595'
+lifecycle_stage: active
+run_id: 73db4fb2e83e4566aa089f6a40d994bd
+run_name: hilarious-hawk-10
+run_uuid: 73db4fb2e83e4566aa089f6a40d994bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705575899165
+status: 3
+tags: []
+user_id: flo

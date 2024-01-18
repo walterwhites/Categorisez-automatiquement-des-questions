@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/719178483396415595/aa197b90e4af417085ebf3dddb1e0ff2/artifacts
+end_time: 1705576117975
+entry_point_name: ''
+experiment_id: '719178483396415595'
+lifecycle_stage: active
+run_id: aa197b90e4af417085ebf3dddb1e0ff2
+run_name: invincible-dog-373
+run_uuid: aa197b90e4af417085ebf3dddb1e0ff2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705576116605
+status: 3
+tags: []
+user_id: flo

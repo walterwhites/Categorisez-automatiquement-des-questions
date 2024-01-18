@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/374894833132681421/c00f21a9b7bb47e08b203417e9c3344a/artifacts
+end_time: 1705576201189
+entry_point_name: ''
+experiment_id: '374894833132681421'
+lifecycle_stage: active
+run_id: c00f21a9b7bb47e08b203417e9c3344a
+run_name: hilarious-cow-451
+run_uuid: c00f21a9b7bb47e08b203417e9c3344a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705576199960
+status: 3
+tags: []
+user_id: flo

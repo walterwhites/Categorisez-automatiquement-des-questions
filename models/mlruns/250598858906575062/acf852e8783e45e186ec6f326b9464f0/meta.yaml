@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/250598858906575062/acf852e8783e45e186ec6f326b9464f0/artifacts
+end_time: 1705575770861
+entry_point_name: ''
+experiment_id: '250598858906575062'
+lifecycle_stage: active
+run_id: acf852e8783e45e186ec6f326b9464f0
+run_name: adaptable-smelt-844
+run_uuid: acf852e8783e45e186ec6f326b9464f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705575769824
+status: 3
+tags: []
+user_id: flo

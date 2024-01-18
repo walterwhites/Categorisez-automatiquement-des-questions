@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/859478209019829715/56ef7f33b6714738b061848d0ac50274/artifacts
+end_time: 1705576193774
+entry_point_name: ''
+experiment_id: '859478209019829715'
+lifecycle_stage: active
+run_id: 56ef7f33b6714738b061848d0ac50274
+run_name: nebulous-stork-343
+run_uuid: 56ef7f33b6714738b061848d0ac50274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705576192467
+status: 3
+tags: []
+user_id: flo
