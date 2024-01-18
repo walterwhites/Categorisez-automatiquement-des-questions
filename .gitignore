@@ -1,4 +1,7 @@
-#models/*.joblib
+models/*.joblib
+models/*.csv
+models/*.png
+models/mlruns/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
