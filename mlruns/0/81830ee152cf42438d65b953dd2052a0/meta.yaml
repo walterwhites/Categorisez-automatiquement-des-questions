@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/0/81830ee152cf42438d65b953dd2052a0/artifacts
+end_time: 1702479184454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81830ee152cf42438d65b953dd2052a0
+run_name: kindly-crab-848
+run_uuid: 81830ee152cf42438d65b953dd2052a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702479138443
+status: 3
+tags: []
+user_id: flo
