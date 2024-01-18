@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/194961432217978029/d10e5ae6487d4cb285da9412cf1574e0/artifacts
+end_time: 1705575893206
+entry_point_name: ''
+experiment_id: '194961432217978029'
+lifecycle_stage: active
+run_id: d10e5ae6487d4cb285da9412cf1574e0
+run_name: bedecked-bat-420
+run_uuid: d10e5ae6487d4cb285da9412cf1574e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705575892137
+status: 3
+tags: []
+user_id: flo
