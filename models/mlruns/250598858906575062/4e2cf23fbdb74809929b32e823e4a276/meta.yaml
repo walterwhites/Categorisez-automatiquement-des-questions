@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/250598858906575062/4e2cf23fbdb74809929b32e823e4a276/artifacts
+end_time: 1705575902592
+entry_point_name: ''
+experiment_id: '250598858906575062'
+lifecycle_stage: active
+run_id: 4e2cf23fbdb74809929b32e823e4a276
+run_name: popular-pig-893
+run_uuid: 4e2cf23fbdb74809929b32e823e4a276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705575901508
+status: 3
+tags: []
+user_id: flo

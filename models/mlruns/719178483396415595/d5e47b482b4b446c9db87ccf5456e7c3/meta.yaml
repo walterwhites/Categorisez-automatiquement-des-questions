@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/719178483396415595/d5e47b482b4b446c9db87ccf5456e7c3/artifacts
+end_time: 1705575768603
+entry_point_name: ''
+experiment_id: '719178483396415595'
+lifecycle_stage: active
+run_id: d5e47b482b4b446c9db87ccf5456e7c3
+run_name: blushing-mole-155
+run_uuid: d5e47b482b4b446c9db87ccf5456e7c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705575767584
+status: 3
+tags: []
+user_id: flo

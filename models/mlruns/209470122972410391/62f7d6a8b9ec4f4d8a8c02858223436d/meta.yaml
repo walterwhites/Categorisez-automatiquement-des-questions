@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/209470122972410391/62f7d6a8b9ec4f4d8a8c02858223436d/artifacts
+end_time: 1705576206738
+entry_point_name: ''
+experiment_id: '209470122972410391'
+lifecycle_stage: active
+run_id: 62f7d6a8b9ec4f4d8a8c02858223436d
+run_name: welcoming-fish-526
+run_uuid: 62f7d6a8b9ec4f4d8a8c02858223436d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705576205511
+status: 3
+tags: []
+user_id: flo

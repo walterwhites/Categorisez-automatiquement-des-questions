@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/472618172140508023/26b9a45ff58341ce94332d495a1f3e51/artifacts
+end_time: 1705576116481
+entry_point_name: ''
+experiment_id: '472618172140508023'
+lifecycle_stage: active
+run_id: 26b9a45ff58341ce94332d495a1f3e51
+run_name: overjoyed-hare-351
+run_uuid: 26b9a45ff58341ce94332d495a1f3e51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705576115285
+status: 3
+tags: []
+user_id: flo
