@@ -1,7 +1,8 @@
 models/*.joblib
 models/*.csv
 models/*.png
-models/mlruns/
+mlruns/
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

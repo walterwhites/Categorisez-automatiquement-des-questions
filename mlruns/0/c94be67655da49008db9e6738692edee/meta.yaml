@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/0/c94be67655da49008db9e6738692edee/artifacts
+end_time: 1702479002205
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c94be67655da49008db9e6738692edee
+run_name: luxuriant-seal-79
+run_uuid: c94be67655da49008db9e6738692edee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702477053931
+status: 3
+tags: []
+user_id: flo
