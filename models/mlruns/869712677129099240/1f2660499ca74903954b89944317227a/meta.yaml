@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/869712677129099240/1f2660499ca74903954b89944317227a/artifacts
+end_time: 1705375395780
+entry_point_name: ''
+experiment_id: '869712677129099240'
+lifecycle_stage: active
+run_id: 1f2660499ca74903954b89944317227a
+run_name: defiant-grouse-539
+run_uuid: 1f2660499ca74903954b89944317227a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705375395637
+status: 3
+tags: []
+user_id: flo

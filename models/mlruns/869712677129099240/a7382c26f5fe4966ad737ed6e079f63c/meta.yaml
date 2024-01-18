@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/869712677129099240/a7382c26f5fe4966ad737ed6e079f63c/artifacts
+end_time: 1705410496912
+entry_point_name: ''
+experiment_id: '869712677129099240'
+lifecycle_stage: active
+run_id: a7382c26f5fe4966ad737ed6e079f63c
+run_name: casual-worm-39
+run_uuid: a7382c26f5fe4966ad737ed6e079f63c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705410496370
+status: 3
+tags: []
+user_id: flo

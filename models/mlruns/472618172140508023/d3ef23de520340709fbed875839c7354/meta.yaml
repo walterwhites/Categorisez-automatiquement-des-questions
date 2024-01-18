@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/472618172140508023/d3ef23de520340709fbed875839c7354/artifacts
+end_time: 1705408714729
+entry_point_name: ''
+experiment_id: '472618172140508023'
+lifecycle_stage: active
+run_id: d3ef23de520340709fbed875839c7354
+run_name: polite-crow-133
+run_uuid: d3ef23de520340709fbed875839c7354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705408714418
+status: 3
+tags: []
+user_id: flo

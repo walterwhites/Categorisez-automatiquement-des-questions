@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/472618172140508023/3ed2f85aa5c344ccab22ef8bd78c9225/artifacts
+end_time: 1705408548263
+entry_point_name: ''
+experiment_id: '472618172140508023'
+lifecycle_stage: active
+run_id: 3ed2f85aa5c344ccab22ef8bd78c9225
+run_name: indecisive-colt-58
+run_uuid: 3ed2f85aa5c344ccab22ef8bd78c9225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705408547993
+status: 3
+tags: []
+user_id: flo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/194961432217978029/de3e93dd2c0a40f083829e6007760d09/artifacts
+end_time: 1705408546658
+entry_point_name: ''
+experiment_id: '194961432217978029'
+lifecycle_stage: active
+run_id: de3e93dd2c0a40f083829e6007760d09
+run_name: stately-mink-176
+run_uuid: de3e93dd2c0a40f083829e6007760d09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705408546396
+status: 3
+tags: []
+user_id: flo

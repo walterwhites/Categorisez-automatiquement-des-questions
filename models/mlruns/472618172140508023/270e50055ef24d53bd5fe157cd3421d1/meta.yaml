@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/472618172140508023/270e50055ef24d53bd5fe157cd3421d1/artifacts
+end_time: 1705409186165
+entry_point_name: ''
+experiment_id: '472618172140508023'
+lifecycle_stage: active
+run_id: 270e50055ef24d53bd5fe157cd3421d1
+run_name: nervous-hawk-564
+run_uuid: 270e50055ef24d53bd5fe157cd3421d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705409185803
+status: 3
+tags: []
+user_id: flo

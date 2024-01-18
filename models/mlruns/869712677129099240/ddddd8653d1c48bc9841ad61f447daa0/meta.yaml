@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/869712677129099240/ddddd8653d1c48bc9841ad61f447daa0/artifacts
+end_time: 1705407137510
+entry_point_name: ''
+experiment_id: '869712677129099240'
+lifecycle_stage: active
+run_id: ddddd8653d1c48bc9841ad61f447daa0
+run_name: big-dog-448
+run_uuid: ddddd8653d1c48bc9841ad61f447daa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705407137385
+status: 3
+tags: []
+user_id: flo

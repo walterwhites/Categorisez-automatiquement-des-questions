@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/994559789952628021/b8d24e10082849b5bb384023e6dfa096/artifacts
+end_time: 1705374920915
+entry_point_name: ''
+experiment_id: '994559789952628021'
+lifecycle_stage: active
+run_id: b8d24e10082849b5bb384023e6dfa096
+run_name: worried-kit-136
+run_uuid: b8d24e10082849b5bb384023e6dfa096
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705374920868
+status: 3
+tags: []
+user_id: flo

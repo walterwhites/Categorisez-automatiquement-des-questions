@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/472618172140508023/07910cc08e8d43eaab77442a344170b9/artifacts
+end_time: 1705408705495
+entry_point_name: ''
+experiment_id: '472618172140508023'
+lifecycle_stage: active
+run_id: 07910cc08e8d43eaab77442a344170b9
+run_name: caring-rook-852
+run_uuid: 07910cc08e8d43eaab77442a344170b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705408705210
+status: 3
+tags: []
+user_id: flo

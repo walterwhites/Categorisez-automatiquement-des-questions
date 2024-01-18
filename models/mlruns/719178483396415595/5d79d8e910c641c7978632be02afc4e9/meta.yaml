@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/719178483396415595/5d79d8e910c641c7978632be02afc4e9/artifacts
+end_time: 1705407668655
+entry_point_name: ''
+experiment_id: '719178483396415595'
+lifecycle_stage: active
+run_id: 5d79d8e910c641c7978632be02afc4e9
+run_name: merciful-gnat-90
+run_uuid: 5d79d8e910c641c7978632be02afc4e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705407668459
+status: 3
+tags: []
+user_id: flo

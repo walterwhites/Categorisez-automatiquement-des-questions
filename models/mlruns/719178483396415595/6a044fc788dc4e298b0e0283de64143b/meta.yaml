@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/719178483396415595/6a044fc788dc4e298b0e0283de64143b/artifacts
+end_time: 1705408715121
+entry_point_name: ''
+experiment_id: '719178483396415595'
+lifecycle_stage: active
+run_id: 6a044fc788dc4e298b0e0283de64143b
+run_name: indecisive-cod-724
+run_uuid: 6a044fc788dc4e298b0e0283de64143b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705408714784
+status: 3
+tags: []
+user_id: flo

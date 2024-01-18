@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/869712677129099240/b028028f390840baaf6145a4fb75ca96/artifacts
+end_time: 1705410497488
+entry_point_name: ''
+experiment_id: '869712677129099240'
+lifecycle_stage: active
+run_id: b028028f390840baaf6145a4fb75ca96
+run_name: gifted-moose-833
+run_uuid: b028028f390840baaf6145a4fb75ca96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705410496971
+status: 3
+tags: []
+user_id: flo

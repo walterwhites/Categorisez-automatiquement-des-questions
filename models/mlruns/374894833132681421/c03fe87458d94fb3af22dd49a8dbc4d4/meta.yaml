@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/374894833132681421/c03fe87458d94fb3af22dd49a8dbc4d4/artifacts
+end_time: 1705411332489
+entry_point_name: ''
+experiment_id: '374894833132681421'
+lifecycle_stage: active
+run_id: c03fe87458d94fb3af22dd49a8dbc4d4
+run_name: rare-mare-493
+run_uuid: c03fe87458d94fb3af22dd49a8dbc4d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705411331896
+status: 3
+tags: []
+user_id: flo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/719178483396415595/785855b139eb420ab40c66ce5b444f88/artifacts
+end_time: 1705406475837
+entry_point_name: ''
+experiment_id: '719178483396415595'
+lifecycle_stage: active
+run_id: 785855b139eb420ab40c66ce5b444f88
+run_name: rebellious-croc-849
+run_uuid: 785855b139eb420ab40c66ce5b444f88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705406475740
+status: 3
+tags: []
+user_id: flo

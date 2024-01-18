@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/869712677129099240/fa13552e39704096abf3afb0fd03fa50/artifacts
+end_time: 1705536200978
+entry_point_name: ''
+experiment_id: '869712677129099240'
+lifecycle_stage: active
+run_id: fa13552e39704096abf3afb0fd03fa50
+run_name: grandiose-flea-433
+run_uuid: fa13552e39704096abf3afb0fd03fa50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705536199859
+status: 3
+tags: []
+user_id: flo

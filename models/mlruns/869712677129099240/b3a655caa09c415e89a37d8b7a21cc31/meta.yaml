@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/869712677129099240/b3a655caa09c415e89a37d8b7a21cc31/artifacts
+end_time: 1705410372832
+entry_point_name: ''
+experiment_id: '869712677129099240'
+lifecycle_stage: active
+run_id: b3a655caa09c415e89a37d8b7a21cc31
+run_name: carefree-duck-165
+run_uuid: b3a655caa09c415e89a37d8b7a21cc31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705410372331
+status: 3
+tags: []
+user_id: flo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/209470122972410391/064c18da81b844cca5df2874ebace800/artifacts
+end_time: 1705408547618
+entry_point_name: ''
+experiment_id: '209470122972410391'
+lifecycle_stage: active
+run_id: 064c18da81b844cca5df2874ebace800
+run_name: aged-zebra-599
+run_uuid: 064c18da81b844cca5df2874ebace800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705408547355
+status: 3
+tags: []
+user_id: flo

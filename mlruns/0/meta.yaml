@@ -1,6 +1,6 @@
-artifact_location: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/0
-creation_time: 1701692665842
+artifact_location: mlflow-artifacts:/0
+creation_time: 1705550892799
 experiment_id: '0'
-last_update_time: 1701692665842
+last_update_time: 1705550892799
 lifecycle_stage: active
 name: Default

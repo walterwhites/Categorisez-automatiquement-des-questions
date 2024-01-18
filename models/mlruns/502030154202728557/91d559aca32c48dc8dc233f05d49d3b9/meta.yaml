@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/502030154202728557/91d559aca32c48dc8dc233f05d49d3b9/artifacts
+end_time: 1705407666711
+entry_point_name: ''
+experiment_id: '502030154202728557'
+lifecycle_stage: active
+run_id: 91d559aca32c48dc8dc233f05d49d3b9
+run_name: fun-fish-145
+run_uuid: 91d559aca32c48dc8dc233f05d49d3b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705407666511
+status: 3
+tags: []
+user_id: flo

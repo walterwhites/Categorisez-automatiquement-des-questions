@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/869712677129099240/f9f41aa609ff4df4a765ebeb6de6647d/artifacts
+end_time: 1705409443311
+entry_point_name: ''
+experiment_id: '869712677129099240'
+lifecycle_stage: active
+run_id: f9f41aa609ff4df4a765ebeb6de6647d
+run_name: marvelous-wren-345
+run_uuid: f9f41aa609ff4df4a765ebeb6de6647d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705409442917
+status: 3
+tags: []
+user_id: flo

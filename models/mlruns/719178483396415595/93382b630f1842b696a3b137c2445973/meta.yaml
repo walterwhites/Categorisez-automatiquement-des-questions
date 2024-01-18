@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/719178483396415595/93382b630f1842b696a3b137c2445973/artifacts
+end_time: 1705375397011
+entry_point_name: ''
+experiment_id: '719178483396415595'
+lifecycle_stage: active
+run_id: 93382b630f1842b696a3b137c2445973
+run_name: gentle-ram-21
+run_uuid: 93382b630f1842b696a3b137c2445973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705375396939
+status: 3
+tags: []
+user_id: flo

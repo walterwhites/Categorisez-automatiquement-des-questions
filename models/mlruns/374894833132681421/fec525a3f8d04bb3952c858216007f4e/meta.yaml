@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/374894833132681421/fec525a3f8d04bb3952c858216007f4e/artifacts
+end_time: 1705410373919
+entry_point_name: ''
+experiment_id: '374894833132681421'
+lifecycle_stage: active
+run_id: fec525a3f8d04bb3952c858216007f4e
+run_name: overjoyed-skunk-807
+run_uuid: fec525a3f8d04bb3952c858216007f4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705410373429
+status: 3
+tags: []
+user_id: flo

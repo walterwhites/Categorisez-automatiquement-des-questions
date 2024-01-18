@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/0/2f51702ff1204d248cbb5f2e6989ef12/artifacts
+end_time: 1705374957996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f51702ff1204d248cbb5f2e6989ef12
+run_name: burly-asp-150
+run_uuid: 2f51702ff1204d248cbb5f2e6989ef12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705374957921
+status: 3
+tags: []
+user_id: flo

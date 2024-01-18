@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/869712677129099240/d1c592fcf4604e06aff65c4df89bb260/artifacts
+end_time: 1705416672975
+entry_point_name: ''
+experiment_id: '869712677129099240'
+lifecycle_stage: active
+run_id: d1c592fcf4604e06aff65c4df89bb260
+run_name: caring-ray-201
+run_uuid: d1c592fcf4604e06aff65c4df89bb260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705416672175
+status: 3
+tags: []
+user_id: flo

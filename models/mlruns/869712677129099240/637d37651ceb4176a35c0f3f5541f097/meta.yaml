@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/869712677129099240/637d37651ceb4176a35c0f3f5541f097/artifacts
+end_time: 1705374921316
+entry_point_name: ''
+experiment_id: '869712677129099240'
+lifecycle_stage: active
+run_id: 637d37651ceb4176a35c0f3f5541f097
+run_name: shivering-hound-12
+run_uuid: 637d37651ceb4176a35c0f3f5541f097
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705374921274
+status: 3
+tags: []
+user_id: flo

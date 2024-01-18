@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/502030154202728557/cf81b8b84b144868ad892a91668eabd6/artifacts
+end_time: 1705406843875
+entry_point_name: ''
+experiment_id: '502030154202728557'
+lifecycle_stage: active
+run_id: cf81b8b84b144868ad892a91668eabd6
+run_name: aged-rat-524
+run_uuid: cf81b8b84b144868ad892a91668eabd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705406843768
+status: 3
+tags: []
+user_id: flo

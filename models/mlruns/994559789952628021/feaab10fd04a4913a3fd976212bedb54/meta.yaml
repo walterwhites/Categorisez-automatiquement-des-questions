@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/994559789952628021/feaab10fd04a4913a3fd976212bedb54/artifacts
+end_time: 1705406475524
+entry_point_name: ''
+experiment_id: '994559789952628021'
+lifecycle_stage: active
+run_id: feaab10fd04a4913a3fd976212bedb54
+run_name: efficient-robin-541
+run_uuid: feaab10fd04a4913a3fd976212bedb54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705406475428
+status: 3
+tags: []
+user_id: flo

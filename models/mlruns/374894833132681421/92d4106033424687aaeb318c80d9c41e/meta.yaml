@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/374894833132681421/92d4106033424687aaeb318c80d9c41e/artifacts
+end_time: 1705406474744
+entry_point_name: ''
+experiment_id: '374894833132681421'
+lifecycle_stage: active
+run_id: 92d4106033424687aaeb318c80d9c41e
+run_name: nosy-kit-274
+run_uuid: 92d4106033424687aaeb318c80d9c41e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705406474652
+status: 3
+tags: []
+user_id: flo

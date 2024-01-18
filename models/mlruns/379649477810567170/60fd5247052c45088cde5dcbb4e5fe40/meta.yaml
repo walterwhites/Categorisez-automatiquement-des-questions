@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/379649477810567170/60fd5247052c45088cde5dcbb4e5fe40/artifacts
+end_time: 1705409899094
+entry_point_name: ''
+experiment_id: '379649477810567170'
+lifecycle_stage: active
+run_id: 60fd5247052c45088cde5dcbb4e5fe40
+run_name: dazzling-gnu-779
+run_uuid: 60fd5247052c45088cde5dcbb4e5fe40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705409898621
+status: 3
+tags: []
+user_id: flo

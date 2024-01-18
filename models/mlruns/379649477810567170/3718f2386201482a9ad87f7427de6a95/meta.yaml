@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/379649477810567170/3718f2386201482a9ad87f7427de6a95/artifacts
+end_time: 1705410375565
+entry_point_name: ''
+experiment_id: '379649477810567170'
+lifecycle_stage: active
+run_id: 3718f2386201482a9ad87f7427de6a95
+run_name: gifted-fawn-211
+run_uuid: 3718f2386201482a9ad87f7427de6a95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705410375064
+status: 3
+tags: []
+user_id: flo

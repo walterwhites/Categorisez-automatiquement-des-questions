@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/422802370645711439/a777f0a2e9324a4d8f16c91ed5c5db37/artifacts
+end_time: 1705423491430
+entry_point_name: ''
+experiment_id: '422802370645711439'
+lifecycle_stage: active
+run_id: a777f0a2e9324a4d8f16c91ed5c5db37
+run_name: stately-lynx-233
+run_uuid: a777f0a2e9324a4d8f16c91ed5c5db37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705423490254
+status: 3
+tags: []
+user_id: flo

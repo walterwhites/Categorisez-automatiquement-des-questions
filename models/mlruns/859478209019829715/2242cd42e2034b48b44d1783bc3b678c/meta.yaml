@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/859478209019829715/2242cd42e2034b48b44d1783bc3b678c/artifacts
+end_time: 1705407393843
+entry_point_name: ''
+experiment_id: '859478209019829715'
+lifecycle_stage: active
+run_id: 2242cd42e2034b48b44d1783bc3b678c
+run_name: masked-trout-720
+run_uuid: 2242cd42e2034b48b44d1783bc3b678c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705407393651
+status: 3
+tags: []
+user_id: flo

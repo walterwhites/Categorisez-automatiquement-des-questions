@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/859478209019829715/64f262a892d4416db16680d1dfdc9559/artifacts
+end_time: 1705374958989
+entry_point_name: ''
+experiment_id: '859478209019829715'
+lifecycle_stage: active
+run_id: 64f262a892d4416db16680d1dfdc9559
+run_name: glamorous-loon-955
+run_uuid: 64f262a892d4416db16680d1dfdc9559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705374958938
+status: 3
+tags: []
+user_id: flo
