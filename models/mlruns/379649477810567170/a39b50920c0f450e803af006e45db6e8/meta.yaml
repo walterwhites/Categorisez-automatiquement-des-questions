@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/379649477810567170/a39b50920c0f450e803af006e45db6e8/artifacts
+end_time: 1705419033384
+entry_point_name: ''
+experiment_id: '379649477810567170'
+lifecycle_stage: active
+run_id: a39b50920c0f450e803af006e45db6e8
+run_name: secretive-toad-587
+run_uuid: a39b50920c0f450e803af006e45db6e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705419032557
+status: 3
+tags: []
+user_id: flo

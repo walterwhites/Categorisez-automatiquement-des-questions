@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1705419032569
+current_stage: Staging
+description: null
+last_updated_timestamp: 1705419033199
+name: supervised OneVsRestClassifier MultinomialNB
+run_id: a39b50920c0f450e803af006e45db6e8
+run_link: null
+source: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/379649477810567170/a39b50920c0f450e803af006e45db6e8/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/379649477810567170/a39b50920c0f450e803af006e45db6e8/artifacts/model
+user_id: null
+version: 421

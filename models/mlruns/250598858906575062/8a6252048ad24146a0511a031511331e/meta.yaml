@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/250598858906575062/8a6252048ad24146a0511a031511331e/artifacts
+end_time: 1705409525547
+entry_point_name: ''
+experiment_id: '250598858906575062'
+lifecycle_stage: active
+run_id: 8a6252048ad24146a0511a031511331e
+run_name: loud-robin-428
+run_uuid: 8a6252048ad24146a0511a031511331e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705409525122
+status: 3
+tags: []
+user_id: flo

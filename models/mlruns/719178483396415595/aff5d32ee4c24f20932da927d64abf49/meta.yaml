@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/719178483396415595/aff5d32ee4c24f20932da927d64abf49/artifacts
+end_time: 1705418202610
+entry_point_name: ''
+experiment_id: '719178483396415595'
+lifecycle_stage: active
+run_id: aff5d32ee4c24f20932da927d64abf49
+run_name: casual-asp-568
+run_uuid: aff5d32ee4c24f20932da927d64abf49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705418201880
+status: 3
+tags: []
+user_id: flo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/374894833132681421/8a80b816857547859c637fc9dceb171a/artifacts
+end_time: 1705408365136
+entry_point_name: ''
+experiment_id: '374894833132681421'
+lifecycle_stage: active
+run_id: 8a80b816857547859c637fc9dceb171a
+run_name: defiant-colt-567
+run_uuid: 8a80b816857547859c637fc9dceb171a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705408364895
+status: 3
+tags: []
+user_id: flo

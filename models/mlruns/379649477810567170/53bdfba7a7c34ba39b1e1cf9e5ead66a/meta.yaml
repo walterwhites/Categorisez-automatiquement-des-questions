@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/379649477810567170/53bdfba7a7c34ba39b1e1cf9e5ead66a/artifacts
+end_time: 1705410501149
+entry_point_name: ''
+experiment_id: '379649477810567170'
+lifecycle_stage: active
+run_id: 53bdfba7a7c34ba39b1e1cf9e5ead66a
+run_name: suave-croc-674
+run_uuid: 53bdfba7a7c34ba39b1e1cf9e5ead66a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705410500608
+status: 3
+tags: []
+user_id: flo

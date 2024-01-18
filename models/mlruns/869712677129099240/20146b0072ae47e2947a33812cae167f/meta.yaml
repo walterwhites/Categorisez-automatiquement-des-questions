@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/869712677129099240/20146b0072ae47e2947a33812cae167f/artifacts
+end_time: 1705423481593
+entry_point_name: ''
+experiment_id: '869712677129099240'
+lifecycle_stage: active
+run_id: 20146b0072ae47e2947a33812cae167f
+run_name: colorful-skink-767
+run_uuid: 20146b0072ae47e2947a33812cae167f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705423480799
+status: 3
+tags: []
+user_id: flo

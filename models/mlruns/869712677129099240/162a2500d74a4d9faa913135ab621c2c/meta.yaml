@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/869712677129099240/162a2500d74a4d9faa913135ab621c2c/artifacts
+end_time: 1705568299018
+entry_point_name: ''
+experiment_id: '869712677129099240'
+lifecycle_stage: active
+run_id: 162a2500d74a4d9faa913135ab621c2c
+run_name: serious-seal-989
+run_uuid: 162a2500d74a4d9faa913135ab621c2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705568297766
+status: 3
+tags: []
+user_id: flo

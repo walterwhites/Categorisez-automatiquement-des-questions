@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/422802370645711439/810f56ed8bfc41c38ab77caa1588c1c5/artifacts
+end_time: 1705374206851
+entry_point_name: ''
+experiment_id: '422802370645711439'
+lifecycle_stage: active
+run_id: 810f56ed8bfc41c38ab77caa1588c1c5
+run_name: youthful-mare-540
+run_uuid: 810f56ed8bfc41c38ab77caa1588c1c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705374206809
+status: 3
+tags: []
+user_id: flo

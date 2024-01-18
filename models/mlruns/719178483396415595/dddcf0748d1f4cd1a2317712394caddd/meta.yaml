@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/719178483396415595/dddcf0748d1f4cd1a2317712394caddd/artifacts
+end_time: 1705409186583
+entry_point_name: ''
+experiment_id: '719178483396415595'
+lifecycle_stage: active
+run_id: dddcf0748d1f4cd1a2317712394caddd
+run_name: intrigued-pig-655
+run_uuid: dddcf0748d1f4cd1a2317712394caddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705409186217
+status: 3
+tags: []
+user_id: flo

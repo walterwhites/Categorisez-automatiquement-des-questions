@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/502030154202728557/4fd691f44c444aa28bf17ef29831883e/artifacts
+end_time: 1705408727521
+entry_point_name: ''
+experiment_id: '502030154202728557'
+lifecycle_stage: active
+run_id: 4fd691f44c444aa28bf17ef29831883e
+run_name: bold-worm-2
+run_uuid: 4fd691f44c444aa28bf17ef29831883e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705408727192
+status: 3
+tags: []
+user_id: flo

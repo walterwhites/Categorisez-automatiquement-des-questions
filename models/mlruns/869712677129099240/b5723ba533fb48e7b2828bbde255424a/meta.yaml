@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/869712677129099240/b5723ba533fb48e7b2828bbde255424a/artifacts
+end_time: 1705374986304
+entry_point_name: ''
+experiment_id: '869712677129099240'
+lifecycle_stage: active
+run_id: b5723ba533fb48e7b2828bbde255424a
+run_name: defiant-hog-644
+run_uuid: b5723ba533fb48e7b2828bbde255424a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705374986243
+status: 3
+tags: []
+user_id: flo

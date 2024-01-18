@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/250598858906575062/ba3408a6312e4c73b7654f1408bafabd/artifacts
+end_time: 1705410504760
+entry_point_name: ''
+experiment_id: '250598858906575062'
+lifecycle_stage: active
+run_id: ba3408a6312e4c73b7654f1408bafabd
+run_name: popular-steed-0
+run_uuid: ba3408a6312e4c73b7654f1408bafabd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705410504199
+status: 3
+tags: []
+user_id: flo

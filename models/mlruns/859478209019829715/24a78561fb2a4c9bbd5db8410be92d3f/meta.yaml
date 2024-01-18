@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/859478209019829715/24a78561fb2a4c9bbd5db8410be92d3f/artifacts
+end_time: 1705408711878
+entry_point_name: ''
+experiment_id: '859478209019829715'
+lifecycle_stage: active
+run_id: 24a78561fb2a4c9bbd5db8410be92d3f
+run_name: puzzled-grub-674
+run_uuid: 24a78561fb2a4c9bbd5db8410be92d3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705408711570
+status: 3
+tags: []
+user_id: flo

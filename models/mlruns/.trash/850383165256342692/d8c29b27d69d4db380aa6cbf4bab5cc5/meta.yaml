@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/850383165256342692/d8c29b27d69d4db380aa6cbf4bab5cc5/artifacts
+deleted_time: 1705374435618
+end_time: 1705373152011
+entry_point_name: ''
+experiment_id: '850383165256342692'
+lifecycle_stage: deleted
+run_id: d8c29b27d69d4db380aa6cbf4bab5cc5
+run_name: thoughtful-cod-477
+run_uuid: d8c29b27d69d4db380aa6cbf4bab5cc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705364627696
+status: 3
+tags: []
+user_id: flo

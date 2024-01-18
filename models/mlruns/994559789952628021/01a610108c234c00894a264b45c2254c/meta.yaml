@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/994559789952628021/01a610108c234c00894a264b45c2254c/artifacts
+end_time: 1705375597246
+entry_point_name: ''
+experiment_id: '994559789952628021'
+lifecycle_stage: active
+run_id: 01a610108c234c00894a264b45c2254c
+run_name: dashing-bear-741
+run_uuid: 01a610108c234c00894a264b45c2254c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705375597165
+status: 3
+tags: []
+user_id: flo

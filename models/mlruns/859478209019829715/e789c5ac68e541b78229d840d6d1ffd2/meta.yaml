@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/859478209019829715/e789c5ac68e541b78229d840d6d1ffd2/artifacts
+end_time: 1705409681241
+entry_point_name: ''
+experiment_id: '859478209019829715'
+lifecycle_stage: active
+run_id: e789c5ac68e541b78229d840d6d1ffd2
+run_name: brawny-moth-994
+run_uuid: e789c5ac68e541b78229d840d6d1ffd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705409680642
+status: 3
+tags: []
+user_id: flo

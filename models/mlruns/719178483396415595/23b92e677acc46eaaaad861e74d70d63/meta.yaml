@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/719178483396415595/23b92e677acc46eaaaad861e74d70d63/artifacts
+end_time: 1705374985824
+entry_point_name: ''
+experiment_id: '719178483396415595'
+lifecycle_stage: active
+run_id: 23b92e677acc46eaaaad861e74d70d63
+run_name: bright-horse-907
+run_uuid: 23b92e677acc46eaaaad861e74d70d63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705374985767
+status: 3
+tags: []
+user_id: flo

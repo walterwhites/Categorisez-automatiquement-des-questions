@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/502030154202728557/362bc8fad5e146b495116e327a1a8a41/artifacts
+end_time: 1705418196203
+entry_point_name: ''
+experiment_id: '502030154202728557'
+lifecycle_stage: active
+run_id: 362bc8fad5e146b495116e327a1a8a41
+run_name: orderly-sow-849
+run_uuid: 362bc8fad5e146b495116e327a1a8a41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705418195478
+status: 3
+tags: []
+user_id: flo

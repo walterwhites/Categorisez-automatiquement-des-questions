@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/994559789952628021/2f4c2de7c51c4ee8b082616267176aa1/artifacts
+end_time: 1705416678940
+entry_point_name: ''
+experiment_id: '994559789952628021'
+lifecycle_stage: active
+run_id: 2f4c2de7c51c4ee8b082616267176aa1
+run_name: luxuriant-bird-141
+run_uuid: 2f4c2de7c51c4ee8b082616267176aa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705416678150
+status: 3
+tags: []
+user_id: flo

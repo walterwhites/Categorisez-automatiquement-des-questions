@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/379649477810567170/fb48aaf7bacb4499908953bc3291d55c/artifacts
+end_time: 1705423963527
+entry_point_name: ''
+experiment_id: '379649477810567170'
+lifecycle_stage: active
+run_id: fb48aaf7bacb4499908953bc3291d55c
+run_name: incongruous-crow-333
+run_uuid: fb48aaf7bacb4499908953bc3291d55c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705423962703
+status: 3
+tags: []
+user_id: flo

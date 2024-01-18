@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/209470122972410391/6f0af2ee6b724b88ab0d6775ea8dbb33/artifacts
+end_time: 1705407716543
+entry_point_name: ''
+experiment_id: '209470122972410391'
+lifecycle_stage: active
+run_id: 6f0af2ee6b724b88ab0d6775ea8dbb33
+run_name: funny-hog-994
+run_uuid: 6f0af2ee6b724b88ab0d6775ea8dbb33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705407716333
+status: 3
+tags: []
+user_id: flo

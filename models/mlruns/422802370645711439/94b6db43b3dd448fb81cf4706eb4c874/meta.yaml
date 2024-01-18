@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/422802370645711439/94b6db43b3dd448fb81cf4706eb4c874/artifacts
+end_time: 1705536213110
+entry_point_name: ''
+experiment_id: '422802370645711439'
+lifecycle_stage: active
+run_id: 94b6db43b3dd448fb81cf4706eb4c874
+run_name: invincible-sheep-728
+run_uuid: 94b6db43b3dd448fb81cf4706eb4c874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705536212188
+status: 3
+tags: []
+user_id: flo

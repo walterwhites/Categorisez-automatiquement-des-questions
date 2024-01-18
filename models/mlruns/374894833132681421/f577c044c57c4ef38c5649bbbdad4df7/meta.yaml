@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/374894833132681421/f577c044c57c4ef38c5649bbbdad4df7/artifacts
+end_time: 1705536204938
+entry_point_name: ''
+experiment_id: '374894833132681421'
+lifecycle_stage: active
+run_id: f577c044c57c4ef38c5649bbbdad4df7
+run_name: abrasive-newt-432
+run_uuid: f577c044c57c4ef38c5649bbbdad4df7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705536204020
+status: 3
+tags: []
+user_id: flo

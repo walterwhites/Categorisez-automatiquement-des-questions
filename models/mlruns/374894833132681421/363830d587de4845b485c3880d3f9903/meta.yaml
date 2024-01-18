@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/374894833132681421/363830d587de4845b485c3880d3f9903/artifacts
+end_time: 1705409183643
+entry_point_name: ''
+experiment_id: '374894833132681421'
+lifecycle_stage: active
+run_id: 363830d587de4845b485c3880d3f9903
+run_name: glamorous-shark-721
+run_uuid: 363830d587de4845b485c3880d3f9903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705409183284
+status: 3
+tags: []
+user_id: flo

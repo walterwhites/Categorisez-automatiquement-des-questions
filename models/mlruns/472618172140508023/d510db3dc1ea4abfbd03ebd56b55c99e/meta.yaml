@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/472618172140508023/d510db3dc1ea4abfbd03ebd56b55c99e/artifacts
+end_time: 1705423489186
+entry_point_name: ''
+experiment_id: '472618172140508023'
+lifecycle_stage: active
+run_id: d510db3dc1ea4abfbd03ebd56b55c99e
+run_name: mysterious-conch-951
+run_uuid: d510db3dc1ea4abfbd03ebd56b55c99e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705423488400
+status: 3
+tags: []
+user_id: flo

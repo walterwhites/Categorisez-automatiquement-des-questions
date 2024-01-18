@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/250598858906575062/5fe8c5b642b44df7a2a861c6ea4dcfff/artifacts
+end_time: 1705409187442
+entry_point_name: ''
+experiment_id: '250598858906575062'
+lifecycle_stage: active
+run_id: 5fe8c5b642b44df7a2a861c6ea4dcfff
+run_name: brawny-stag-265
+run_uuid: 5fe8c5b642b44df7a2a861c6ea4dcfff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705409187065
+status: 3
+tags: []
+user_id: flo

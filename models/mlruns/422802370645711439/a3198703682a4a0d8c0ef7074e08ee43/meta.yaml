@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/422802370645711439/a3198703682a4a0d8c0ef7074e08ee43/artifacts
+end_time: 1705407432778
+entry_point_name: ''
+experiment_id: '422802370645711439'
+lifecycle_stage: active
+run_id: a3198703682a4a0d8c0ef7074e08ee43
+run_name: gentle-ox-471
+run_uuid: a3198703682a4a0d8c0ef7074e08ee43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705407432602
+status: 3
+tags: []
+user_id: flo

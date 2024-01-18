@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/250598858906575062/3d31a4a3f67b4d4c8030b979812497a1/artifacts
+end_time: 1705407396128
+entry_point_name: ''
+experiment_id: '250598858906575062'
+lifecycle_stage: active
+run_id: 3d31a4a3f67b4d4c8030b979812497a1
+run_name: colorful-deer-794
+run_uuid: 3d31a4a3f67b4d4c8030b979812497a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705407395971
+status: 3
+tags: []
+user_id: flo

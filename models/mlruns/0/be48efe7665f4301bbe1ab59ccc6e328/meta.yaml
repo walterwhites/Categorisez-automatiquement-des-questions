@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/0/be48efe7665f4301bbe1ab59ccc6e328/artifacts
+end_time: 1705407137138
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be48efe7665f4301bbe1ab59ccc6e328
+run_name: selective-snipe-555
+run_uuid: be48efe7665f4301bbe1ab59ccc6e328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705407136964
+status: 3
+tags: []
+user_id: flo

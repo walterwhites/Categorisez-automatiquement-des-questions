@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/250598858906575062/b1554e4e26af44358afd860f5782d365/artifacts
+end_time: 1705423969011
+entry_point_name: ''
+experiment_id: '250598858906575062'
+lifecycle_stage: active
+run_id: b1554e4e26af44358afd860f5782d365
+run_name: mercurial-vole-497
+run_uuid: b1554e4e26af44358afd860f5782d365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705423968127
+status: 3
+tags: []
+user_id: flo
