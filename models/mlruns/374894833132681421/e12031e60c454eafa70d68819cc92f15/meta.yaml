@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/374894833132681421/e12031e60c454eafa70d68819cc92f15/artifacts
+end_time: 1705375396114
+entry_point_name: ''
+experiment_id: '374894833132681421'
+lifecycle_stage: active
+run_id: e12031e60c454eafa70d68819cc92f15
+run_name: kindly-hawk-719
+run_uuid: e12031e60c454eafa70d68819cc92f15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705375396037
+status: 3
+tags: []
+user_id: flo

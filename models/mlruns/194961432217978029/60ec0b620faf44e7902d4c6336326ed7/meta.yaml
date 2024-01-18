@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/194961432217978029/60ec0b620faf44e7902d4c6336326ed7/artifacts
+end_time: 1705568305078
+entry_point_name: ''
+experiment_id: '194961432217978029'
+lifecycle_stage: active
+run_id: 60ec0b620faf44e7902d4c6336326ed7
+run_name: sassy-koi-475
+run_uuid: 60ec0b620faf44e7902d4c6336326ed7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705568304125
+status: 3
+tags: []
+user_id: flo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/422802370645711439/231fa711995643dda875d88939cab37e/artifacts
+end_time: 1705409901720
+entry_point_name: ''
+experiment_id: '422802370645711439'
+lifecycle_stage: active
+run_id: 231fa711995643dda875d88939cab37e
+run_name: whimsical-goat-207
+run_uuid: 231fa711995643dda875d88939cab37e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705409901243
+status: 3
+tags: []
+user_id: flo

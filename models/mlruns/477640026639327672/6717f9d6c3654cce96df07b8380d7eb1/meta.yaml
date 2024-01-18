@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/477640026639327672/6717f9d6c3654cce96df07b8380d7eb1/artifacts
+end_time: 1705408713290
+entry_point_name: ''
+experiment_id: '477640026639327672'
+lifecycle_stage: active
+run_id: 6717f9d6c3654cce96df07b8380d7eb1
+run_name: aged-skink-741
+run_uuid: 6717f9d6c3654cce96df07b8380d7eb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705408712994
+status: 3
+tags: []
+user_id: flo

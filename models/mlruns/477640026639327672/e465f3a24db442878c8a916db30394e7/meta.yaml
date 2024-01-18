@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/477640026639327672/e465f3a24db442878c8a916db30394e7/artifacts
+end_time: 1705407431405
+entry_point_name: ''
+experiment_id: '477640026639327672'
+lifecycle_stage: active
+run_id: e465f3a24db442878c8a916db30394e7
+run_name: whimsical-grub-243
+run_uuid: e465f3a24db442878c8a916db30394e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705407431240
+status: 3
+tags: []
+user_id: flo

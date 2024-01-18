@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/374894833132681421/0115a88699d9482eaaf05c699fe8bd8f/artifacts
+end_time: 1705374206335
+entry_point_name: ''
+experiment_id: '374894833132681421'
+lifecycle_stage: active
+run_id: 0115a88699d9482eaaf05c699fe8bd8f
+run_name: salty-owl-764
+run_uuid: 0115a88699d9482eaaf05c699fe8bd8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705374206313
+status: 3
+tags: []
+user_id: flo

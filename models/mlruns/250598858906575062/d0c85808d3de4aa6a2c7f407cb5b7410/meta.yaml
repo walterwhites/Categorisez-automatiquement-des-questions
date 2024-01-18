@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/250598858906575062/d0c85808d3de4aa6a2c7f407cb5b7410/artifacts
+end_time: 1705407152329
+entry_point_name: ''
+experiment_id: '250598858906575062'
+lifecycle_stage: active
+run_id: d0c85808d3de4aa6a2c7f407cb5b7410
+run_name: luxuriant-colt-466
+run_uuid: d0c85808d3de4aa6a2c7f407cb5b7410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705407152179
+status: 3
+tags: []
+user_id: flo

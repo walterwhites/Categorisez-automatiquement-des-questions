@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/869712677129099240/0b64d552246e4482812d384993e9d22d/artifacts
+end_time: 1705409443736
+entry_point_name: ''
+experiment_id: '869712677129099240'
+lifecycle_stage: active
+run_id: 0b64d552246e4482812d384993e9d22d
+run_name: tasteful-lark-562
+run_uuid: 0b64d552246e4482812d384993e9d22d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705409443367
+status: 3
+tags: []
+user_id: flo

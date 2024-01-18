@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/477640026639327672/da6f373af88942018c360d2acb6ea9fa/artifacts
+end_time: 1705409522256
+entry_point_name: ''
+experiment_id: '477640026639327672'
+lifecycle_stage: active
+run_id: da6f373af88942018c360d2acb6ea9fa
+run_name: aged-midge-975
+run_uuid: da6f373af88942018c360d2acb6ea9fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705409521829
+status: 3
+tags: []
+user_id: flo

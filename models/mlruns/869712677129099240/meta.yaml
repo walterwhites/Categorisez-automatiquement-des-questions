@@ -1,0 +1,6 @@
+artifact_location: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/869712677129099240
+creation_time: 1705320022317
+experiment_id: '869712677129099240'
+last_update_time: 1705320022317
+lifecycle_stage: active
+name: supervised OneVsRestClassifier MultinomialNB

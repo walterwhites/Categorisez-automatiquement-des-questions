@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/209470122972410391/a073cf1f27e947d8a92b1cca43858419/artifacts
+end_time: 1705568308336
+entry_point_name: ''
+experiment_id: '209470122972410391'
+lifecycle_stage: active
+run_id: a073cf1f27e947d8a92b1cca43858419
+run_name: blushing-boar-548
+run_uuid: a073cf1f27e947d8a92b1cca43858419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705568307312
+status: 3
+tags: []
+user_id: flo

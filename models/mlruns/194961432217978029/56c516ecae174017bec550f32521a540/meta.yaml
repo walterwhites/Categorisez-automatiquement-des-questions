@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/194961432217978029/56c516ecae174017bec550f32521a540/artifacts
+end_time: 1705409521774
+entry_point_name: ''
+experiment_id: '194961432217978029'
+lifecycle_stage: active
+run_id: 56c516ecae174017bec550f32521a540
+run_name: useful-toad-226
+run_uuid: 56c516ecae174017bec550f32521a540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705409521352
+status: 3
+tags: []
+user_id: flo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/502030154202728557/4a84e2d51b2a422a88b7ebf414f0bd93/artifacts
+end_time: 1705423483373
+entry_point_name: ''
+experiment_id: '502030154202728557'
+lifecycle_stage: active
+run_id: 4a84e2d51b2a422a88b7ebf414f0bd93
+run_name: traveling-chimp-815
+run_uuid: 4a84e2d51b2a422a88b7ebf414f0bd93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705423482600
+status: 3
+tags: []
+user_id: flo

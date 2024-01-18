@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/422802370645711439/dd9f69ff7824413f80ed2910f2d2996e/artifacts
+end_time: 1705419037598
+entry_point_name: ''
+experiment_id: '422802370645711439'
+lifecycle_stage: active
+run_id: dd9f69ff7824413f80ed2910f2d2996e
+run_name: crawling-fish-729
+run_uuid: dd9f69ff7824413f80ed2910f2d2996e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705419036834
+status: 3
+tags: []
+user_id: flo

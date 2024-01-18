@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/869712677129099240/8778f95b701545e186a301b6963101b3/artifacts
+end_time: 1705416672050
+entry_point_name: ''
+experiment_id: '869712677129099240'
+lifecycle_stage: active
+run_id: 8778f95b701545e186a301b6963101b3
+run_name: indecisive-ram-646
+run_uuid: 8778f95b701545e186a301b6963101b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705416671127
+status: 3
+tags: []
+user_id: flo

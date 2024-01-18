@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/379649477810567170/7c567874af954a4389b97ec91b044a52/artifacts
+end_time: 1705374920816
+entry_point_name: ''
+experiment_id: '379649477810567170'
+lifecycle_stage: active
+run_id: 7c567874af954a4389b97ec91b044a52
+run_name: sincere-squirrel-130
+run_uuid: 7c567874af954a4389b97ec91b044a52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705374920783
+status: 3
+tags: []
+user_id: flo

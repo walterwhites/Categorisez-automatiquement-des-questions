@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/209470122972410391/90ab8fd5179d4b5fada8d3712ec71f06/artifacts
+end_time: 1705406475375
+entry_point_name: ''
+experiment_id: '209470122972410391'
+lifecycle_stage: active
+run_id: 90ab8fd5179d4b5fada8d3712ec71f06
+run_name: placid-squirrel-178
+run_uuid: 90ab8fd5179d4b5fada8d3712ec71f06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705406475277
+status: 3
+tags: []
+user_id: flo

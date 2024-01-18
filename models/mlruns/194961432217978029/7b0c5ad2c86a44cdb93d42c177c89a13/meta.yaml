@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/flo/workspace/Cat%C3%A9gorisez%20automatiquement%20des%20questions/mlruns/194961432217978029/7b0c5ad2c86a44cdb93d42c177c89a13/artifacts
+end_time: 1705407747494
+entry_point_name: ''
+experiment_id: '194961432217978029'
+lifecycle_stage: active
+run_id: 7b0c5ad2c86a44cdb93d42c177c89a13
+run_name: thoughtful-bird-904
+run_uuid: 7b0c5ad2c86a44cdb93d42c177c89a13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705407747274
+status: 3
+tags: []
+user_id: flo
