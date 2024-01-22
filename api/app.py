@@ -4,8 +4,6 @@ import requests
 from joblib import load
 from pydantic import BaseModel
 import preprocessing
-import streamlit as st
-import httpx
 
 app = FastAPI()
 mlb_model_url = 'https://github.com/walterwhites/Categorisez-automatiquement-des-questions/releases/download/v1.0.0/model_supervised_MultinomialNB.joblib'
@@ -13,8 +11,6 @@ oneVsRestClassifier_mlb_model_url = 'https://github.com/walterwhites/Categorisez
 
 combined_pipeline = None
 mlb = None
-
-api_url = "https://share.streamlit.io/votre-nom/nom-de-votre-application/models/supervised/predict/"
 
 def download_file(url, filename):
     response = requests.get(url)
@@ -58,16 +54,3 @@ def supervised_predict(title: str, body: str):
         print("\n")
 
     return {"prediction":  list(zip(top_tags_combined_sorted, top_classes_probabilities_sorted))}
-def main():
-    st.title("Votre Application Streamlit")
-    title = st.text_input("Titre")
-    body = st.text_area("Corps")
-
-    if st.button("Prédire"):
-        with st.spinner("En cours de prédiction..."):
-            data = {"title": title, "body": body}
-            response = requests.post(api_url, json=data)
-            prediction = response.json()
-            st.write("Prédiction:", prediction)
-
-#%%
