@@ -2,6 +2,7 @@ models/*.joblib
 models/*.csv
 models/*.png
 mlruns/
+models/mlruns/
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
