@@ -1,5 +1,6 @@
 import requests
 import streamlit as st
+import subprocess
 
 api_url = "https://categorisez-automatiquement-des-questions-5k9epyoc4gkbruabktk8.streamlit.app/models/supervised/predict/"
 def main():
@@ -13,3 +14,10 @@ def main():
             response = requests.post(api_url, json=data)
             prediction = response.json()
             st.write("Prédiction:", prediction)
+
+def start_fastapi():
+    cmd = "uvicorn api.app:app --host 0.0.0.0 --port 8080 --reload"
+    subprocess.Popen(cmd, shell=True)
+
+start_fastapi()
+main()
