@@ -2,6 +2,7 @@ models/*.joblib
 models/*.csv
 models/*.png
 models/mlruns/
+*.joblib
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
