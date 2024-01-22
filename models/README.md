@@ -22,3 +22,15 @@ Dans la racine du projet lancez la commande
 ```
 
 Ensuite, naviguez vers http://localhost:8000/docs
+
+
+## Virtual env
+Création de l'env virtuel
+```
+python -m venv my_env 
+```
+
+Pour activer l'env virtuel
+```
+source my_env/bin/activate
+```
