@@ -3,7 +3,7 @@ import numpy as np
 import requests
 from joblib import load
 from pydantic import BaseModel
-from api.preprocessing import preprocess_text
+import preprocessing
 import streamlit as st
 import httpx
 
@@ -37,7 +37,7 @@ class PredictionResponse(BaseModel):
 @app.post("/models/supervised/predict/")
 def supervised_predict(title: str, body: str):
     content = title + ' ' + body
-    processed_question = preprocess_text(content)
+    processed_question = preprocessing.preprocess_text(content)
     content_as_array = [title, body]
     print(content_as_array)
     predictions_proba_combined = combined_pipeline.predict_proba(content_as_array)
@@ -69,3 +69,5 @@ def main():
             response = requests.post(api_url, json=data)
             prediction = response.json()
             st.write("Prédiction:", prediction)
+
+#%%

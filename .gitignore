@@ -3,6 +3,8 @@ models/*.csv
 models/*.png
 models/mlruns/
 *.joblib
+mlruns/
+my_env/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
