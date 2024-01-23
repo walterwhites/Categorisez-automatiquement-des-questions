@@ -1,0 +1,7 @@
+models
+src/tests
+*.md
+*.csv
+*.gitignore
+.DS_Store
+.idea
