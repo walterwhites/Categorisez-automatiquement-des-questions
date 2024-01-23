@@ -1,6 +1,6 @@
 import requests
 
-api_url = "https://categorisez-automatiquement-des-questions.vercel.app/models/supervised/predict/"
+api_url = "https://project5-f3fbec0b0078.herokuapp.com/models/supervised/predict/"
 
 # Données de test
 data = {
