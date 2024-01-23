@@ -1,16 +1,7 @@
-import nltk
 import re
 from bs4 import BeautifulSoup
-import mlflow
-import mlflow.sklearn
-import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import accuracy_score
-from nltk.tokenize import word_tokenize, sent_tokenize
+from nltk.tokenize import sent_tokenize
 from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer
-import spacy
 from nltk.stem import WordNetLemmatizer
 
 def preprocess_text(text):
