@@ -18,7 +18,8 @@ mlflow ui
 ## API en local
 Dans la racine du projet lancez la commande
 ```
- uvicorn api.app:app --reload
+cd api/
+uvicorn app:app --reload 
 ```
 
 Ensuite, naviguez vers http://localhost:8000/docs

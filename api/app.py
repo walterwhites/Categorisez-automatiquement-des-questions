@@ -1,8 +1,9 @@
 from fastapi import FastAPI
-import numpy as np
-import requests
 from joblib import load
 from pydantic import BaseModel
+from fastapi.middleware.cors import CORSMiddleware
+import numpy as np
+import requests
 import preprocessing
 
 app = FastAPI()
@@ -11,6 +12,15 @@ oneVsRestClassifier_mlb_model_url = 'https://github.com/walterwhites/Categorisez
 
 combined_pipeline = None
 mlb = None
+
+# Configure CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 def download_file(url, filename):
     response = requests.get(url)
