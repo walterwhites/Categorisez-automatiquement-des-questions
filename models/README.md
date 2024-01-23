@@ -35,3 +35,13 @@ Pour activer l'env virtuel
 ```
 source my_env/bin/activate
 ```
+
+## Deploy on Heroku
+```
+git push heroku main --force
+```
+
+## Logs Heroku
+```
+heroku logs --tail --app project5
+```
