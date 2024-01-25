@@ -14,6 +14,12 @@ oneVsRestClassifier_mlb_model_url = 'https://github.com/walterwhites/Categorisez
 combined_pipeline = None
 mlb = None
 
+try:
+    nltk.download('punkt')
+    nltk.download('wordnet')
+    nltk.download('stopwords')
+except Exception as e:
+    print(f"Erreur lors du téléchargement des données NLTK : {e}")
 
 # Configure CORS
 app.add_middleware(
@@ -39,13 +45,6 @@ class PredictionResponse(BaseModel):
 
 @app.post("/models/supervised/predict/")
 def supervised_predict(title: str, body: str):
-    try:
-        nltk.download('punkt')
-        nltk.download('wordnet')
-        nltk.download('stopwords')
-    except Exception as e:
-        print(f"Erreur lors du téléchargement des données NLTK : {e}")
-
     download_file(mlb_model_url, "mlb_model.joblib")
     download_file(oneVsRestClassifier_mlb_model_url, "oneVsRestClassifier_mlb_model.joblib")
     combined_pipeline = load('oneVsRestClassifier_mlb_model.joblib')

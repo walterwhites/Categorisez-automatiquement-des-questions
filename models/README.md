@@ -45,3 +45,9 @@ git push heroku main --force
 ```
 heroku logs --tail --app project5
 ```
+
+## Launch unit tests
+on local
+```
+python -m unittest
+```

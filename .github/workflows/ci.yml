@@ -1,0 +1,30 @@
+# .github/workflows/ci.yml
+
+name: Catégorisez automatiquement des questions - unit tests
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.11.4'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Run tests
+      run: |
+        python -m unittest discover -s api/tests
+    - name: Deploy to Heroku
+      if: github.ref == 'refs/heads/main'
+      uses: akhileshns/heroku-deploy@v3.12.12
+      with:
+        heroku_api_key: ${{secrets.HEROKU_API_KEY}}
+        heroku_app_name: "project5"
+        heroku_email: "hopemagie@gmail.com"
+

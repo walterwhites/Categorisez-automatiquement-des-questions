@@ -2,18 +2,18 @@ import requests
 
 api_url = "https://project5-f3fbec0b0078.herokuapp.com/models/supervised/predict/"
 
-# Données de test
 data = {
     "title": "Titre de test",
     "body": "Corps de test"
 }
 
-# Envoi de la requête POST
-response = requests.post(api_url, json=data)
+headers = {
+    "Accept": "application/json",
+    "Referer": "https://project5-f3fbec0b0078.herokuapp.com/docs"
+}
 
-print("response")
-print(response.status_code)
-# Traitement de la réponse
+response = requests.post(api_url, json=data, headers=headers)
+
 if response.status_code == 200:
     prediction = response.json()
     print("Prédiction:", prediction)
