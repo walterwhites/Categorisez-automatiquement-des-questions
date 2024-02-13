@@ -10,7 +10,7 @@ AND Score >= 5 AND LEN(Tags) - LEN(REPLACE(Tags, '<','')) >= 5
 ```
 
 ## mlflow UI
-Dans la racine du projet lancez la commande
+Dans le dossier models/ lancez la commande
 ```
 mlflow ui
 ```

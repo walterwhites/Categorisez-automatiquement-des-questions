@@ -8,7 +8,7 @@ import preprocessing
 import nltk
 
 app = FastAPI()
-mlb_model_url = 'https://github.com/walterwhites/Categorisez-automatiquement-des-questions/releases/download/v1.0.0/model_supervised_MultinomialNB.joblib'
+mlb_model_url = 'https://github.com/walterwhites/Categorisez-automatiquement-des-questions/releases/download/v1.0.0/transformer_MultiLabelBinarizer.joblib'
 oneVsRestClassifier_mlb_model_url = 'https://github.com/walterwhites/Categorisez-automatiquement-des-questions/releases/download/v1.0.0/model_supervised_OneVsRestClassifier_MultinomialNB.joblib'
 
 combined_pipeline = None
