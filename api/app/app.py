@@ -15,9 +15,9 @@ combined_pipeline = None
 mlb = None
 
 try:
-    nltk.download('punkt')
-    nltk.download('wordnet')
-    nltk.download('stopwords')
+    nltk.download('punkt', force=True)
+    nltk.download('wordnet', force=True)
+    nltk.download('stopwords', force=True)
 except Exception as e:
     print(f"Erreur lors du téléchargement des données NLTK : {e}")
 
