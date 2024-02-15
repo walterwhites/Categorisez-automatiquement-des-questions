@@ -6,20 +6,21 @@ import numpy as np
 import requests
 import preprocessing
 import nltk
+import zipfile
+import os
 
 app = FastAPI()
-mlb_model_url = 'https://github.com/walterwhites/Categorisez-automatiquement-des-questions/releases/download/v1.0.0/transformer_MultiLabelBinarizer.joblib'
-oneVsRestClassifier_mlb_model_url = 'https://github.com/walterwhites/Categorisez-automatiquement-des-questions/releases/download/v1.0.0/model_supervised_OneVsRestClassifier_MultinomialNB.joblib'
 
-combined_pipeline = None
-mlb = None
+# Nom du fichier zip contenant les modèles
+models_zip_file = 'models_src.zip'
 
-try:
-    nltk.download('punkt', force=True)
-    nltk.download('wordnet', force=True)
-    nltk.download('stopwords', force=True)
-except Exception as e:
-    print(f"Erreur lors du téléchargement des données NLTK : {e}")
+# Charger les modèles depuis le fichier zip
+with zipfile.ZipFile(models_zip_file, 'r') as zip_ref:
+    if not os.path.exists('models_src'):
+        zip_ref.extractall()
+
+combined_pipeline = load('models_src/oneVsRestClassifier_mlb_model.joblib')
+mlb = load('models_src/mlb_model.joblib')
 
 # Configure CORS
 app.add_middleware(
@@ -30,25 +31,17 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-def download_file(url, filename):
-    response = requests.get(url)
-    response.raise_for_status()
-    with open(filename, 'wb') as f:
-        f.write(response.content)
-@app.on_event("startup")
-def load_models():
-    global combined_pipeline
-    global mlb
-
 class PredictionResponse(BaseModel):
     prediction: str
 
 @app.post("/models/supervised/predict/")
 def supervised_predict(title: str, body: str):
-    download_file(mlb_model_url, "mlb_model.joblib")
-    download_file(oneVsRestClassifier_mlb_model_url, "oneVsRestClassifier_mlb_model.joblib")
-    combined_pipeline = load('oneVsRestClassifier_mlb_model.joblib')
-    mlb = load('mlb_model.joblib')
+    try:
+        nltk.download('punkt', force=True)
+        nltk.download('wordnet', force=True)
+        nltk.download('stopwords', force=True)
+    except Exception as e:
+        print(f"Erreur lors du téléchargement des données NLTK : {e}")
 
     content = title + ' ' + body
     processed_question = preprocessing.preprocess_text(content)
